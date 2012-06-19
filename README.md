@@ -16,3 +16,6 @@ SeedAVideo a pour but de vous simplifier la vie, c'est pour cela qu'il est très
     1- Si vous souhaitez mettre une announce pour un tracker, placez la dans le champ de saisie,
     2- Cliquez sur "Choisir et générez les fichiers", une fenêtre s'ouvre, choisissez votre fichier, dans ce dossier seront générer le fichier nfo ainsi que le torrent.
     3- Une fois que la fenêtre de console qui c'est ouverte vous invite a fermer les fenêtres du logiciel, vous pouvez les fermer.
+    
+Vous aimez ce travail ? Vous voulez me payer un café ? Pourquoi ne pas faire un don :) :
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AY5N82DHCXNPN
