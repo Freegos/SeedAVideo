@@ -18,4 +18,4 @@ SeedAVideo a pour but de vous simplifier la vie, c'est pour cela qu'il est très
     3- Une fois que la fenêtre de console qui c'est ouverte vous invite a fermer les fenêtres du logiciel, vous pouvez les fermer.
     
 Vous aimez ce travail ? Vous voulez me payer un café ? Pourquoi ne pas faire un don :) :
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AY5N82DHCXNPN, vous n'aimez pas Paypal ? pourquoi ne pas me Flattr alors ? http://flattr.com/thing/384010/Seed-A-Video
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AY5N82DHCXNPN, vous n'aimez pas Paypal ? pourquoi ne pas me Flattrer alors ? http://flattr.com/thing/384010/Seed-A-Video
