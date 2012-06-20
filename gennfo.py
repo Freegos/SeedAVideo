@@ -18,6 +18,10 @@ def gen_nfo(fichier):
 	print("Récupération des informations pour le NFO")
 	# Chemin du fichier
 	FileName = MI.GetI(Stream.General, 0, 46)
+	FileName = FileName.split("\\")
+	Filename = Filename.reverse()
+	Filename = Filename.index()
+
 	# Format video du fichier
 	FormatVideo = MI.Get(Stream.General, 0, "Format")
 	# Résolution
